@@ -1,3 +1,4 @@
+// print a 2d array using user input rows & cols
 import java.util.Scanner;
 
 public class twoDArrays {
